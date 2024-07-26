@@ -4,6 +4,8 @@ Team members: Tad Berkery, Ilana Chalom, Matthew Flynn, Katherine Forbes, Nolan 
 
 TutorHub is built using MERN stack and other technologies detailed in our "Tech Stack" issue
 
+View an overview here: https://docs.google.com/presentation/d/1WR7jA-tGc01Hs1lCPtze69hDLfAj6UUkvK5s18X1m_I/edit?usp=sharing
+
 # TutorHub
 <br />
 <p align="center">
