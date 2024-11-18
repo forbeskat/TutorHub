@@ -1,6 +1,6 @@
-Note: For non-JHU affiliated guests looking to log-in, use the following credentials:
-User: guest@jhu.edu
-Password: guest@Jhu
+Note: For non-JHU affiliated guests looking to log-in, use the following credentials:     
+User: guest@jhu.edu     
+Password: guest@Jhu     
 
 TutorHub is built using MERN stack and other technologies detailed in our "Tech Stack" issue
 
