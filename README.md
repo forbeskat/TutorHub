@@ -1,6 +1,6 @@
-# Object-Oriented Software Engineering Team Project
-
-Team members: Tad Berkery, Ilana Chalom, Matthew Flynn, Katherine Forbes, Nolan Fogarty, Dokyung Yang
+Note: For non-JHU affiliated guests looking to log-in, use the following credentials:
+User: guest@jhu.edu
+Password: guest@Jhu
 
 TutorHub is built using MERN stack and other technologies detailed in our "Tech Stack" issue
 
