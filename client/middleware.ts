@@ -1,3 +1,4 @@
+/* middleware */
 import { authMiddleware } from "@clerk/nextjs";
 import { NextRequest, NextResponse } from "next/server";
  
