@@ -73,12 +73,6 @@ AWS_BUCKET_NAME=tutorhubprofilepics
 Run ```npm i``` in root, server, and client directories to install necessary dependencies.
 From the root directory (after appropriate installation), start both the frontend and the backend server simultaneously by executing: ```npm run start:all```
 
-### Viewing Deployed App (Server)
-
-An earlier version of our app is deployed at https://project-team-02-git-frontenddepl-b0804a-nolan-fogartys-projects.vercel.app/
-The backend (server) is deployed at : https://tutorhub-server.onrender.com
-To confirm that it is working, you can visit the url and check if you see "Hello World!" message. 
-
 ### Navigating the App
 
 Since we haven't created a landing page, please click the 'Sign-In' button to create an account using your JHU email(must end in @jhu.edu). Once an account is created, add '/profile' to the URL to navigate to your profile page. From here, you should be able to Edit Profile as well as Create Posts using the designated buttons. 

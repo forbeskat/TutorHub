@@ -120,7 +120,7 @@ const Page : FC = () => {
 
   const handleFileSelected = (e: React.ChangeEvent<HTMLInputElement>): void => {
     const files = Array.from(e.target.files)
-    setPhotoFile(files[0]);
+    
   }
 
   const checkAndSubmit = async () => {
